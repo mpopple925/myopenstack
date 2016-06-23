@@ -473,8 +473,7 @@
   473  mkdir ~/myopenstack
   474  cd myopenstack
   475  yum install git
-  476  git config --global user.name mpopple925
-  477  git config --global user.email mike@htgs.net
+ 
   478  git config --list
   479  git init
   480  history > history
